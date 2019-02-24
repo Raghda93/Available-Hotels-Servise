@@ -1,0 +1,36 @@
+provider = 
+providerURL = 
+
+############# Properties for request #############
+
+fromDate = 
+
+# The value should be one of the below formats:
+# ISO_OFFSET_DATE, ISO_DATE ,ISO_ORDINAL_DATE, ISO_INSTANT ,ISO_WEEK_DATE,
+# ISO_LOCAL_DATE_TIME, ISO_OFFSET_DATE_TIME ,ISO_ZONED_DATE_TIME ,ISO_DATE_TIME ,ISO_LOCAL_DATE 
+fromDateFormat = 
+
+toDate = 
+
+# The value should be one of the below formats:
+# ISO_OFFSET_DATE, ISO_DATE ,ISO_ORDINAL_DATE, ISO_INSTANT ,ISO_WEEK_DATE,
+# ISO_LOCAL_DATE_TIME, ISO_OFFSET_DATE_TIME ,ISO_ZONED_DATE_TIME ,ISO_DATE_TIME ,ISO_LOCAL_DATE 
+toDateFormat = 
+
+city = 
+
+numberOfAdults = 
+
+############# Properties for response #############
+
+hotelName = 
+
+fare = 
+
+discount = 
+
+amenities = 
+
+rate = 
+
+#The value should be "string" or "number"
